@@ -11,10 +11,15 @@ I am a Data Analyst and Python Developer. I work with ETL processes, data analys
 
 
 Languages : Python, Bash, SQL
+
 💻	VSC : GIT
+
 📆	Databases :  MongoDB, MySQL
+
 Visualization 📊 : matplotlib, seaborn, plotly, Tableau, PowerBI
+
 Upworks Profile: https://www.upwork.com/freelancers/~01b34c8e8e9309e030?viewMode=1
+
 Linked in Profile: https://www.linkedin.com/in/edgard-cuadra-c/
 
 
