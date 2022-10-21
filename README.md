@@ -1,4 +1,4 @@
-- Hi there 🙋‍♂️!
+Hi there 🙋‍♂️!
 
 
 I am a Data Analyst and Python Developer. I work with ETL processes, data analysis and machine learning. I'm especially interested in automation and neural networks — through Python, SQL and bash.
@@ -23,10 +23,10 @@ I am a Data Analyst and Python Developer. I work with ETL processes, data analys
     Linked in Profile: https://www.linkedin.com/in/edgard-cuadra-c/
 
 
-- 📫 How to reach me:
-- 
-- Contact: ejcuad@gmail.com
-- Phone : 280 - 790 - 9133
+📫 How to reach me:
+
+Contact: ejcuad@gmail.com
+Phone : 280 - 790 - 9133
 
 
 <!---
