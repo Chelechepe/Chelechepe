@@ -12,9 +12,9 @@ I am a Data Analyst and Python Developer. I work with ETL processes, data analys
 
     Languages : Python, Bash, SQL
 
-    💻	VSC : GIT
+    💻VSC : GIT
 
-    📆	Databases :  MongoDB, MySQL
+    📆Databases :  MongoDB, MySQL
 
     Visualization 📊 : matplotlib, seaborn, plotly, Tableau, PowerBI
 
