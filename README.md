@@ -3,11 +3,11 @@ Hi there 🙋‍♂️!
 
 I am a Data Analyst and Python Developer. I work with ETL processes, data analysis and machine learning. I'm especially interested in automation and neural networks — through Python, SQL and bash.
 
-    ✅ Data-driven mindset: as an Engineer and MBA I have a analytical and problem-solving skills with a good understanding of a business value creation. I’m passionate about data, I have even done a bootcamp in Data Analytics to improve my tech knowledge.
+✅ Data-driven mindset: as an Engineer and MBA I have a analytical and problem-solving skills with a good understanding of a business value creation. I’m passionate about data, I have even done a bootcamp in Data Analytics to improve my tech knowledge.
 
-    ✅ Growth and Product Strategy: my experience as engineering has giving me a critical eye to find ways to improve the operation with lean manufacturing practice. 
+✅ Growth and Product Strategy: my experience as engineering has giving me a critical eye to find ways to improve the operation with lean manufacturing practice. 
 
-    ✅ Management: I have experience leading high-performance teams 
+✅ Management: I have experience leading high-performance teams 
 
 
     Languages : Python, Bash, SQL
